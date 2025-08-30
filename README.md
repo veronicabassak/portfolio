@@ -62,10 +62,10 @@ _No Bootstrap/React/jQuery/etc._
 ├── mediaqueries.css
 ├── script.js
 ├── assets/
-│   ├── icons/                # svg icons
-│   ├── images/               # project/profile images & video
+│   ├── icons/               
+│   ├── images/               
 │   └── CV_Bassak_Veronika.pdf
-├── hero.png                  # screenshot used in this README
+├── hero.png                 
 └── README.md
 ~~~~
 
