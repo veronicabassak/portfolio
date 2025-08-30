@@ -62,8 +62,8 @@ _No Bootstrap/React/jQuery/etc._
 ├── mediaqueries.css
 ├── script.js
 ├── assets/
-│   ├── icons/               
-│   ├── images/               
+│   ├── icons              
+│   ├── images             
 │   └── CV_Bassak_Veronika.pdf
 ├── hero.png                 
 └── README.md
