@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://veronicabassak.github.io/portfolio/">
-    <img src="hero.png" alt="Homepage screenshot of Veronika Bassak’s portfolio" width="900">
+    <img src="./assets/hero.png" alt="Homepage screenshot of Veronika Bassak’s portfolio" width="900">
   </a>
 </p>
 
