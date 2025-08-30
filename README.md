@@ -22,7 +22,6 @@ Built for the Founders & Coders application to: introduce me, show why I’m mov
 - [Tech](#tech)
 - [Structure](#structure)
 - [Getting started](#getting-started)
-- [Deploy / Updating](#deploy--updating)
 - [Accessibility notes](#accessibility-notes)
 - [Credits](#credits)
 - [License](#license)
