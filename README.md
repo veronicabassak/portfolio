@@ -56,6 +56,7 @@ _No Bootstrap/React/jQuery/etc._
 
 ## Structure
 
+~~~~
 .
 ├── index.html
 ├── style.css
@@ -67,6 +68,7 @@ _No Bootstrap/React/jQuery/etc._
 │   └── CV_Bassak_Veronika.pdf
 ├── hero.png                  # screenshot used in this README
 └── README.md
+~~~~
 
 
 ## Getting started
